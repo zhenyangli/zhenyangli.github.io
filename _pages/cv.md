@@ -15,9 +15,9 @@ Work experience
   
 Education
 ======
-* 2012-2016, Ph.D University of Amsterdam
-* 2009-2011, M.S. Leiden University
-* 2005-2009, B.S. Beijing Language and Culture University
+* 2012-2016, Ph.D in Computer Vision, University of Amsterdam
+* 2009-2011, M.S. in Computer Science, Leiden University
+* 2005-2009, B.S. in Computer Science, Beijing Language and Culture University
 
 
 
