@@ -20,11 +20,13 @@ Work experience
 * Summer 2015: Post Doc
   * University of Amsterdam
 
-#Talks
-#======
-#  <ul>{% for post in site.talks %}
-#    {% include archive-single-talk-cv.html %}
-#  {% endfor %}</ul>
+<!---
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+-->
   
 Service and leadership
 ======
