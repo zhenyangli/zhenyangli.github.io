@@ -15,9 +15,9 @@ Work experience
   
 Education
 ======
-* Ph.D University of Amsterdam, 2012-2016
-* M.S. Leiden University, 2009-2011
-* B.S. Beijing Language and Culture University, 2005-2009
+* 2012-2016, Ph.D University of Amsterdam
+* 2009-2011, M.S. Leiden University
+* 2005-2009, B.S. Beijing Language and Culture University
 
 
 
