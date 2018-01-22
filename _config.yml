@@ -83,7 +83,7 @@ author:
   bio              : "Researcher at Univeristy of Amsterdam"
   location         : "Amsterdam, NL"
   employer         :
-  googlescholar    : "http://https://scholar.google.com/citations?user=UFhcrs4AAAAJ&hl=en"
+  googlescholar    : #"http://https://scholar.google.com/citations?user=UFhcrs4AAAAJ&hl=en"
   email            :
   uri              :
   bitbucket        :
@@ -92,19 +92,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "zhenyangli"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
