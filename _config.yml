@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Zhenyang Li"
 title_separator          : "-"
 name                     : &name "Zhenyang Li"
 description              : &description "Researcher in Computer Vision"
@@ -78,10 +78,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Zhenyang Li"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Researcher at Univeristy of Amsterdam"
+  location         : "Amsterdam, NL"
   employer         :
   googlescholar    : "http://https://scholar.google.com/citations?user=UFhcrs4AAAAJ&hl=en"
   email            :
